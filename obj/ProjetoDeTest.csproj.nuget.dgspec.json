@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest.csproj": {}
+    "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest\\ProjetoDeTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest.csproj": {
+    "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest\\ProjetoDeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest.csproj",
+        "projectUniqueName": "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest\\ProjetoDeTest.csproj",
         "projectName": "ProjetoDeTest",
-        "projectPath": "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest.csproj",
+        "projectPath": "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest\\ProjetoDeTest.csproj",
         "packagesPath": "C:\\Users\\mayar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mayar\\ProjetoDeTest\\obj\\",
+        "outputPath": "c:\\Users\\mayar\\ProjetoDeTest\\ProjetoDeTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
